@@ -83,8 +83,8 @@ Otherwise, you can build, test, and deploy on your local environment.
 ## Scripts
 
 ```
-brownie run scripts/01_deploy_box.py
-brownie run scripts/02_upgrade_box.py
+brownie run scripts/deploy_box.py
+brownie run scripts/upgrade_box.py
 ```
 
 ### running on rinkeby chain
